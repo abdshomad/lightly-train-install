@@ -16,4 +16,5 @@ dependencies = [
     "termcolor>=3.3.0",
     "supervision>=0.27.0.post1",
     "lightly-train>=0.14.1",
+    "matplotlib>=3.10.8",
 ]
