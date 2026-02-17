@@ -1,0 +1,6 @@
+[submodule "lightly-train"]
+	path = lightly-train
+	url = https://github.com/lightly-ai/lightly-train.git
+[submodule "chicken-detection-labelme-format"]
+	path = chicken-detection-labelme-format
+	url = https://github.com/abdshomad/chicken-detection-labelme-format.git
